@@ -252,17 +252,17 @@ h6 {
   }
 }
 
-#hero:before {
+/* #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
-  position: absolute;
+  position: relative;
   bottom: 0;
   top: 0;
   left: 0;
   right: 0;
   z-index: 1;
   height: 100%; /* Use a percentage or '100vh' for responsive height */
-}
+} */
 
 #hero .hero-container {
   position: relative;
